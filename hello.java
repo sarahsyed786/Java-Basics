@@ -4,6 +4,6 @@ class hello{
         int num2 = 5;
         int result = num + num2;
         System.out.println(result);
-        System.out.println("Hello World!/n");
+        System.out.println("Hello World!");
 }
 }
